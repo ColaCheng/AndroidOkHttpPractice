@@ -7,7 +7,7 @@ I've written the three examples that use OkHttp library to connect the http requ
 
 ##Setup the Environment
 
-#### Add Support Library
+#### Add Library
 
 To implement OkHttp library, make sure to add the Support Library setup instructions first. (make sure these versions have been updated.)
 
